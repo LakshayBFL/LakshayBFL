@@ -21,7 +21,7 @@
 | 🧠 | Exploring **AI + Web integration** |
 | ⚡ | Strong in **React, Node.js, MongoDB, Express** |
 | 💬 | Ask me about **REST APIs, JWT auth, scalable architecture** |
-| 📫 | Reach me at **[your-email@example.com]** |
+
 
 ---
 
