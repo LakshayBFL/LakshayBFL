@@ -8,8 +8,7 @@
 - 🌱 Learning **System Design, DevOps & Advanced Backend**
 - ⚡ Strong in **React, Node.js, MongoDB, Express**
 - 🧠 Interested in **AI + Web Integration**
-- 📫 Reach me at: **your-email@example.com**
-
+  
 ---
 
 ## 🛠️ Tech Stack
