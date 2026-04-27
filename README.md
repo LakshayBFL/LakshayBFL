@@ -49,6 +49,4 @@
 
 ---
 
-<div align="center">
-  <i>⭐ Star a repo if you find it useful — it keeps me motivated!</i>
-</div>
+
