@@ -10,21 +10,6 @@
 
 </div>
 
----
-
-## 🙋 About Me
-
-| | |
-|---|---|
-| 🔭 | Working on **MERN full-stack applications** |
-| 🌱 | Learning **System Design, DevOps & Advanced Backend** |
-| 🧠 | Exploring **AI + Web integration** |
-| ⚡ | Strong in **React, Node.js, MongoDB, Express** |
-| 💬 | Ask me about **REST APIs, JWT auth, scalable architecture** |
-
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
