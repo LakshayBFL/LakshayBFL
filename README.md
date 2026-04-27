@@ -52,20 +52,5 @@
 
 ---
 
-## 🚀 Projects
 
-### 🔹 Fleet Management System
-- Built using **React + Node.js + MongoDB**
-- Real-time tracking & task allocation
-- Integrated **ROS2 + MQTT**
-
-### 🔹 AI-based Content Filtering System
-- Detects & mutes abusive words in audio
-- Uses **TensorFlow + Flask API**
-
-### 🔹 Blood Donation Platform
-- Location-based donor matching (10km radius)
-- Real-time request handling using **Firebase**
-
----
 
