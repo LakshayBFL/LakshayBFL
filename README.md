@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lakshay</h1>
+<h3 align="center">MERN Stack Developer | Building Scalable Web Apps</h3>
 
-<!--
-**LakshayBFL/LakshayBFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🔭 I’m currently working on **Full Stack (MERN) Applications**
+- 🌱 Learning **System Design, DevOps & Advanced Backend**
+- ⚡ Strong in **React, Node.js, MongoDB, Express**
+- 🧠 Interested in **AI + Web Integration**
+- 📫 Reach me at: **your-email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### 🗄️ Database
+- MongoDB
+- Mongoose
+
+### 🧰 Tools & Technologies
+- Git & GitHub
+- Docker (Basics)
+- Postman
+- AWS (Basics)
+- Firebase
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshayBFL&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshayBFL&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Fleet Management System
+- Built using **React + Node.js + MongoDB**
+- Real-time tracking & task allocation
+- Integrated **ROS2 + MQTT**
+
+### 🔹 AI-based Content Filtering System
+- Detects & mutes abusive words in audio
+- Uses **TensorFlow + Flask API**
+
+### 🔹 Blood Donation Platform
+- Location-based donor matching (10km radius)
+- Real-time request handling using **Firebase**
+
+---
+
