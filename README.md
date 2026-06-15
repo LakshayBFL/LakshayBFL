@@ -2,7 +2,7 @@
 
 # Hi, I'm Lakshay 👋
 
-### MERN Stack Developer · Building Scalable Web Apps · Open to Collaborate
+### MERN Stack Developer 
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-green?style=flat-square)
 ![AI + Web](https://img.shields.io/badge/AI_%2B_Web_Integration-blue?style=flat-square)
